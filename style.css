@@ -1,0 +1,48 @@
+body{
+    background-color: goldenrod;
+    font-family:"Arial", sans-serif;
+    font-size:24px;
+    font-weight:normal;
+    text-align: left;
+    padding:40px;
+    margin:80px;
+}
+nav ul li a{
+    color:red;
+}
+nav ul li a:hover{
+    color:lightgreen;
+}
+p{
+   text-align: center;
+   text-decoration-color: brown;
+}
+.line{
+    background-color: chocolate;
+    width:900px;
+    height:700px;
+    padding: 10px 20px 30px 40px;
+    margin:50px;
+}
+
+.img{
+    width:100%;
+    height:auto;
+    
+}
+.sectionss {
+    background-color: aqua;
+} 
+#mainheader{
+    background-color: lightseagreen;
+}
+#trial{
+    border: 3px solid black;
+}
+.card{
+    background-color: #f9f9f9;
+    padding:20px;
+    margin:40px;
+    border-radius: 8px;
+    box-shadow:0 4px 8px rgba(0, 0, 0, 0.1);
+}
